@@ -1,0 +1,8 @@
+go 1.20
+
+use ./01_Basics
+
+//create go work file and populate it
+//go work init
+//go work use 01_Basics
+//go work use 02_Deeper

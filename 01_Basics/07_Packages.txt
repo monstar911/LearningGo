@@ -1,0 +1,3 @@
+Difficult to sum up in a code block, see https://www.golang-book.com/books/intro/11 for details
+suffice to say packages are compiled seperately, so a chunk working by itself can be packaged
+and imported like fmt. 
